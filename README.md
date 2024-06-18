@@ -41,6 +41,13 @@ First, load the Iris dataset and explore its structure and summary statistics. T
 
 ## Data Visualization
 Visualize the data to understand the distribution and relationships between features. This involves creating pair plots to see relationships between variables, scatter plots to examine individual feature relationships, and box plots to visualize the distribution of each feature by species.
+![Uploading Rplot.png…]()
+
+![Uploading Rplot01.png…]()
+
+![Uploading Rplot02.png…]()
+
+![Uploading Rplot03.png…]()
 
 ## Data Preprocessing
 Prepare the data for modeling by checking for missing values and normalizing the features if needed. This step ensures that the data is clean and in a suitable format for model training.
@@ -50,6 +57,8 @@ Split the dataset into training and testing sets to evaluate the model's perform
 
 ## Model Building
 Build a simple decision tree model to classify the species of the iris flowers based on their features. This involves training the decision tree using the training data and visualizing the tree structure.
+
+![Uploading Rplot04.png…]()
 
 ## Model Evaluation
 Evaluate the decision tree model on the test data using a confusion matrix. This step measures the model's accuracy and other performance metrics to understand how well it performs on unseen data.
